@@ -1,0 +1,5 @@
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/obj/Debug/net8.0/UniversityCode-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/obj/Debug/net8.0/UniversityCode-1.AssemblyInfoInputs.cache
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/obj/Debug/net8.0/UniversityCode-1.AssemblyInfo.cs
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/obj/Debug/net8.0/UniversityCode-1.csproj.CoreCompileInputs.cache
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/obj/Debug/net8.0/UniversityCode-1.sourcelink.json
