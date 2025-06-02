@@ -1,0 +1,12 @@
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/bin/Debug/net8.0/ClassLibraryPharmacy1.deps.json
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/bin/Debug/net8.0/ClassLibraryPharmacy1.dll
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/bin/Debug/net8.0/ClassLibraryPharmacy1.pdb
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/obj/Debug/net8.0/ClassLibraryPharmacy1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/obj/Debug/net8.0/ClassLibraryPharmacy1.AssemblyInfoInputs.cache
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/obj/Debug/net8.0/ClassLibraryPharmacy1.AssemblyInfo.cs
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/obj/Debug/net8.0/ClassLibraryPharmacy1.csproj.CoreCompileInputs.cache
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/obj/Debug/net8.0/ClassLibraryPharmacy1.sourcelink.json
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/obj/Debug/net8.0/ClassLibraryPharmacy1.dll
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/obj/Debug/net8.0/refint/ClassLibraryPharmacy1.dll
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/obj/Debug/net8.0/ClassLibraryPharmacy1.pdb
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibraryPharmacy1/obj/Debug/net8.0/ref/ClassLibraryPharmacy1.dll
