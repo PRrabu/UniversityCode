@@ -1,0 +1,12 @@
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/bin/Debug/net8.0/ClassLibrary2.deps.json
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/bin/Debug/net8.0/ClassLibrary2.dll
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/bin/Debug/net8.0/ClassLibrary2.pdb
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.AssemblyInfoInputs.cache
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.AssemblyInfo.cs
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.csproj.CoreCompileInputs.cache
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.sourcelink.json
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.dll
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/obj/Debug/net8.0/refint/ClassLibrary2.dll
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/obj/Debug/net8.0/ClassLibrary2.pdb
+/Users/aleksandroberuhtin/Desktop/Кодинг/Coding/UniversityCode-1/ClassLibrary2/obj/Debug/net8.0/ref/ClassLibrary2.dll
